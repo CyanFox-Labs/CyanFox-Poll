@@ -80,7 +80,7 @@
     "repositories": {
         "robsontenorio/mary": {
             "type": "vcs",
-            "url": "https://github.com/CyanFox-Projects/MaryUI.git",
+            "url": "https://github.com/CyanFox-Labs/MaryUI.git",
             "options": {
                 "symlink": true
             }
